@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
 	<ConfigVersions>
-		<Metadata name="Catalog.EXCActions" id="990d9f18-c15c-4bc4-9a80-34b80e167791" configVersion="fc6b8461d92a634b9a1359129a51b2a200000000">
+		<Metadata name="Catalog.EXCActions" id="990d9f18-c15c-4bc4-9a80-34b80e167791" configVersion="bb41be34820f9643ab4e56407ce0b61b00000000">
 			<Metadata name="Catalog.EXCActions.TabularSection.ActionQueue.Attribute.Critical" id="0af15a13-13d1-49ca-a3c0-7b6701b37532"/>
 			<Metadata name="Catalog.EXCActions.TabularSection.ActionsParams" id="1854a704-4586-46f2-b5e7-fae6930e58d4"/>
 			<Metadata name="Catalog.EXCActions.TabularSection.Params" id="6be1699f-60ce-4648-9349-694b57d84217"/>
@@ -16,6 +16,8 @@
 			<Metadata name="Catalog.EXCActions.TabularSection.ActionQueue.Attribute.Action" id="f588bcd4-6ffc-4a2b-9aec-aab96a1aa5c2"/>
 			<Metadata name="Catalog.EXCActions.TabularSection.ActionQueue.Attribute.Server" id="fda886f7-6942-4dea-bc4f-80d1d72fb28e"/>
 		</Metadata>
+		<Metadata name="Catalog.EXCActions.Form.ФормаЭлемента" id="6d1a1a86-c7c6-40b6-bd97-8c17cad88aef" configVersion="57d5385c092a6e47aa2c71127ea510fd00000000"/>
+		<Metadata name="Catalog.EXCActions.Form.ФормаЭлемента.Form" id="6d1a1a86-c7c6-40b6-bd97-8c17cad88aef.0" configVersion="2752101b273a7b44a59aea8a49bff38c00000000"/>
 		<Metadata name="Catalog.EXCActions.ManagerModule" id="990d9f18-c15c-4bc4-9a80-34b80e167791.3" configVersion="7c5801cb22f09542940788479ade8c8700000000"/>
 		<Metadata name="Catalog.EXCActions.Predefined" id="990d9f18-c15c-4bc4-9a80-34b80e167791.1c" configVersion="e3ffc4f91657f146bb585e50d97a249800000000"/>
 		<Metadata name="Catalog.EXCActionsType" id="7711e314-be55-45b3-9bca-7f5f18df2a91" configVersion="ef991cf91d3d874ead3ea889fbf20af700000000"/>
@@ -30,7 +32,7 @@
 		<Metadata name="CommonModule.STL.Module" id="82cfdeb1-8636-4464-804f-1ac11fae498e.0" configVersion="137bd351168085488ed7a83e3774ff0c00000000"/>
 		<Metadata name="CommonModule.SrvCall" id="ba20eef5-df1e-47a1-a948-ef41aafb8a2d" configVersion="3feac368ced4f74597a6963cf1d45dac00000000"/>
 		<Metadata name="CommonModule.SrvCall.Module" id="ba20eef5-df1e-47a1-a948-ef41aafb8a2d.0" configVersion="20bf20a265f0ac43b2b15e39d2c7e8f500000000"/>
-		<Metadata name="Configuration.Конфигурация" id="98af6409-0a9c-479e-be13-84f9df66ae75" configVersion="25d2ecc82188ef4a94a4732f23cd560000000000"/>
+		<Metadata name="Configuration.Конфигурация" id="98af6409-0a9c-479e-be13-84f9df66ae75" configVersion="9e6e599789e57b489e8a5ad45c2a95c500000000"/>
 		<Metadata name="Language.Русский" id="f88a5ee5-3366-4d87-b90c-e2982697973b" configVersion="eaf861b798b99b4d98739fee1ec4b49200000000"/>
 		<Metadata name="Role.ПолныеПрава" id="47d8755e-80dc-4c0c-99fe-4e076576323a" configVersion="7882a92b8dd1624cafbee1afbfa5573c00000000"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="47d8755e-80dc-4c0c-99fe-4e076576323a.0" configVersion="c188c08a2fac7049879b234948fa431c00000000"/>
