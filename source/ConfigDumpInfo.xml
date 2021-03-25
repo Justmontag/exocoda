@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="Catalog.EXCActions" id="990d9f18-c15c-4bc4-9a80-34b80e167791" configVersion="fc6b8461d92a634b9a1359129a51b2a200000000">
+			<Metadata name="Catalog.EXCActions.TabularSection.ActionQueue.Attribute.Critical" id="0af15a13-13d1-49ca-a3c0-7b6701b37532"/>
+			<Metadata name="Catalog.EXCActions.TabularSection.ActionsParams" id="1854a704-4586-46f2-b5e7-fae6930e58d4"/>
+			<Metadata name="Catalog.EXCActions.TabularSection.Params" id="6be1699f-60ce-4648-9349-694b57d84217"/>
+			<Metadata name="Catalog.EXCActions.TabularSection.ActionsParams.Attribute.Value" id="6c0afb7b-2a1e-4205-b5a9-7853374dce8b"/>
+			<Metadata name="Catalog.EXCActions.TabularSection.ActionsParams.Attribute.ID" id="7478fec1-a1ae-4149-8518-cf79ee7a61ca"/>
+			<Metadata name="Catalog.EXCActions.Attribute.SimpleName" id="7f27abed-8879-44dd-8d4f-0ce39dfba19b"/>
+			<Metadata name="Catalog.EXCActions.TabularSection.ActionQueue" id="909d800a-e659-4e38-bfc1-f3cd02e147f3"/>
+			<Metadata name="Catalog.EXCActions.TabularSection.ActionQueue.Attribute.ID" id="ab1353cb-2b92-421a-a9fb-09b9c4f93d4c"/>
+			<Metadata name="Catalog.EXCActions.TabularSection.ActionsParams.Attribute.Param" id="bb779b8e-5731-4bb0-a450-1c78f448d2eb"/>
+			<Metadata name="Catalog.EXCActions.TabularSection.Params.Attribute.Param" id="bdd5f038-772d-40a5-8c68-128f84827b3e"/>
+			<Metadata name="Catalog.EXCActions.Attribute.Type" id="f354fe63-675d-4d3c-9afd-1a923f851c71"/>
+			<Metadata name="Catalog.EXCActions.TabularSection.ActionQueue.Attribute.Action" id="f588bcd4-6ffc-4a2b-9aec-aab96a1aa5c2"/>
+			<Metadata name="Catalog.EXCActions.TabularSection.ActionQueue.Attribute.Server" id="fda886f7-6942-4dea-bc4f-80d1d72fb28e"/>
+		</Metadata>
+		<Metadata name="Catalog.EXCActions.ManagerModule" id="990d9f18-c15c-4bc4-9a80-34b80e167791.3" configVersion="7c5801cb22f09542940788479ade8c8700000000"/>
+		<Metadata name="Catalog.EXCActions.Predefined" id="990d9f18-c15c-4bc4-9a80-34b80e167791.1c" configVersion="e3ffc4f91657f146bb585e50d97a249800000000"/>
+		<Metadata name="Catalog.EXCActionsType" id="7711e314-be55-45b3-9bca-7f5f18df2a91" configVersion="ef991cf91d3d874ead3ea889fbf20af700000000"/>
+		<Metadata name="Catalog.EXCActionsType.Predefined" id="7711e314-be55-45b3-9bca-7f5f18df2a91.1c" configVersion="7c3f303280d6f2438fdd72b8a7383f1000000000"/>
+		<Metadata name="CommonModule.EXCActionsExecuter" id="0041104e-5f97-4a14-8706-11b8619ac1f4" configVersion="fa2b64c309b9d74c8d7db0d4a6885bed00000000"/>
+		<Metadata name="CommonModule.EXCActionsExecuter.Module" id="0041104e-5f97-4a14-8706-11b8619ac1f4.0" configVersion="3096b97e17845c4488d0648831d4467300000000"/>
+		<Metadata name="CommonModule.EXCExecuter" id="1f2f207a-931f-464e-9242-20aa32699c5d" configVersion="e1dc8c665c5fd24e8e88b6ab88e5159200000000"/>
+		<Metadata name="CommonModule.EXCExecuter.Module" id="1f2f207a-931f-464e-9242-20aa32699c5d.0" configVersion="c9e9e5e16061fb4b9438f47680369cd700000000"/>
+		<Metadata name="CommonModule.SQL" id="ad1edbcf-edb9-408c-8edf-fb1a0168178c" configVersion="f052119e753e8a4485a32289e7252e0700000000"/>
+		<Metadata name="CommonModule.SQL.Module" id="ad1edbcf-edb9-408c-8edf-fb1a0168178c.0" configVersion="769fc8b6043b6e49b33d340debe37e5e00000000"/>
+		<Metadata name="CommonModule.STL" id="82cfdeb1-8636-4464-804f-1ac11fae498e" configVersion="605c4b1939448d45b78ebce3dc0cdd9900000000"/>
+		<Metadata name="CommonModule.STL.Module" id="82cfdeb1-8636-4464-804f-1ac11fae498e.0" configVersion="137bd351168085488ed7a83e3774ff0c00000000"/>
+		<Metadata name="CommonModule.SrvCall" id="ba20eef5-df1e-47a1-a948-ef41aafb8a2d" configVersion="3feac368ced4f74597a6963cf1d45dac00000000"/>
+		<Metadata name="CommonModule.SrvCall.Module" id="ba20eef5-df1e-47a1-a948-ef41aafb8a2d.0" configVersion="20bf20a265f0ac43b2b15e39d2c7e8f500000000"/>
+		<Metadata name="Configuration.Конфигурация" id="98af6409-0a9c-479e-be13-84f9df66ae75" configVersion="25d2ecc82188ef4a94a4732f23cd560000000000"/>
+		<Metadata name="Language.Русский" id="f88a5ee5-3366-4d87-b90c-e2982697973b" configVersion="eaf861b798b99b4d98739fee1ec4b49200000000"/>
+		<Metadata name="Role.ПолныеПрава" id="47d8755e-80dc-4c0c-99fe-4e076576323a" configVersion="7882a92b8dd1624cafbee1afbfa5573c00000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="47d8755e-80dc-4c0c-99fe-4e076576323a.0" configVersion="c188c08a2fac7049879b234948fa431c00000000"/>
+		<Metadata name="Subsystem.Common" id="f0c6a6a1-5252-4501-b6f3-51fa5e8a7e5e" configVersion="f54c0e3f2919f44b98425afb791c4ae600000000"/>
+		<Metadata name="Subsystem.Exocoda" id="b5f756d0-1a1d-4bc5-ba30-f3b8e3c159b1" configVersion="2c67e2c33354374e9851aa200e0fe36e00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
