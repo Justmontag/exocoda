@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.10">
+	<Item id="a250d6a2-487e-41c5-bf9d-f629e2aa0166">
+		<Name>Queue</Name>
+		<Code>000000003</Code>
+		<Description>Queue</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="edb6d9d4-66d1-43a0-a54f-1b19a8725fb9">
+		<Name>Simple</Name>
+		<Code>000000002</Code>
+		<Description>Simple</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="625c2c12-ca36-4cab-b8af-190b1c06c1d7">
+		<Name>Template</Name>
+		<Code>000000001</Code>
+		<Description>Template</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
